@@ -1,0 +1,2 @@
+# factorial
+Implementing factorial.
